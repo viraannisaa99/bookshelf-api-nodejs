@@ -1,6 +1,6 @@
 # Bookshelf API - Dicoding Submission
 
-![alt text](https://github.com/viraannisaa99/open-music-api/blob/main/sertifikat_course_261_1331362_160621210839_page-0001.jpg?raw=true)
+![alt text](https://github.com/viraannisaa99/bookshelf-api-nodejs/blob/main/sertifikat_course_261_1331362_160621210839_page-0001.jpg?raw=true)
 
 Dicoding's final project for "Back-End Apps for Beginners Class." using HAPI Framework (Nodejs) with mandatory criteria:
 1. Create book -> with condition if name undefined & readPage > pageCount
